@@ -12,14 +12,14 @@ output:
 
 ## What is mean total number of steps taken per day?
 
-
+45
 
 ## What is the average daily activity pattern?
 
-
+24.44
 
 ## Imputing missing values
 
-
+21.4
 
 ## Are there differences in activity patterns between weekdays and weekends?
